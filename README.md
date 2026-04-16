@@ -1,4 +1,4 @@
-# Farmland GeoJSON Generator
+# Functionaal Field Fabricator
 
 A Vue 3 + Vite application that generates realistic mock farmland GeoJSON polygons constrained to land areas, with a Leaflet map display and full property metadata on each field.
 
